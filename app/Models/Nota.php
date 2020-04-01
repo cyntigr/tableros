@@ -7,9 +7,7 @@
 
 namespace App\Models;
 
-use GuzzleHttp\Psr7\Request;
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Support\Facades\DB;
 
 class Nota extends Model
 {
@@ -22,6 +20,7 @@ class Nota extends Model
     // indicamos que no vamos a utilizar los campos created_at y updated_at
     public $timestamps = false ;
 
+    protected $fillable = ['texto','fecha','completado','idTab'];
 
     /**
      * Relación N:1 (muchos a uno) con la tabla TABLERO
@@ -32,8 +31,5 @@ class Nota extends Model
     {
     	return $this->belongsTo('App\Models\Tablero', 'idTab') ;
     }
-
-
-    
    
 }

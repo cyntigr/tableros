@@ -6,7 +6,6 @@ use Carbon\Carbon ;
 use App\Models\Tablero;
 use Illuminate\Support\Facades\Blade ;
 use Illuminate\Support\ServiceProvider;
-use Illuminate\Support\Facades\Schema;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -27,7 +26,6 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        Schema::defaultStringLength(191);
         /**
          * Creamos una nueva directiva de Blade para formatear la fecha
          * y obtener su valor en formato Europeo.

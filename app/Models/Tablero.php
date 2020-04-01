@@ -21,6 +21,9 @@ class Tablero extends Model
     // el valor por defecto de $timestamps es true
     public $timestamps = false ;
 
+    //
+    public $fillable = ['nombre', 'fecha'] ;
+
     /**
      * Relación 1:N (uno a muchos) con la tabla NOTA
      * 
