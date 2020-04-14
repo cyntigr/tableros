@@ -5,3 +5,4 @@ Aplicación de Tableros para practicar Laravel.
 - Implementado:
   - Listar notas
   - Mostrar nota
+* En la carpeta Tablero-Master-Login esta el ejercicio con las 3 cuestiones resueltas
