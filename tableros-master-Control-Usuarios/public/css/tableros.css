@@ -1,0 +1,17 @@
+@font-face
+{
+	font-family: Go;
+	src: url('../fonts/Go-Medium.ttf') format('truetype') ;
+}
+
+@font-face
+{
+	font-family: Overpass;
+	src: url('../fonts/overpass-mono-regular.otf') format('opentype') ;
+}
+
+body { font-family: Overpass !important; }
+.logo-404 { width: 50%; }
+
+/*body { font-family: 'Fira Code', monospace !important;  
+	   font-weight: 300 !important; }*/

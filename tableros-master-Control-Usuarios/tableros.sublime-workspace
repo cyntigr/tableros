@@ -1,0 +1,438 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"box-",
+				"box-shadow\tproperty"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"base",
+				"baseURL"
+			],
+			[
+				"dis",
+				"disModal"
+			],
+			[
+				"data",
+				"datatable"
+			],
+			[
+				"axio",
+				"axiosLoad"
+			],
+			[
+				"axi",
+				"axiosLoad"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"paddi",
+				"padding-right\tproperty"
+			],
+			[
+				"lo",
+				"loadStudents"
+			],
+			[
+				"ch",
+				"checkst"
+			],
+			[
+				"drop",
+				"dropdownMenu"
+			],
+			[
+				"backl",
+				"background-color\tproperty"
+			],
+			[
+				"check",
+				"checkStatus"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"axis",
+				"axiosCall"
+			],
+			[
+				"loa",
+				"loadYear"
+			],
+			[
+				"calcul",
+				"calculate_years"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"html\t",
+				"Set Syntax: HTML"
+			],
+			[
+				"vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros"
+	],
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/oldiariofp/app/Http/Controllers/api/agreeController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/oldiariofp/app/Http/Controllers/api/commentController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/app/Providers/AuthServiceProvider.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/oldiariofp/resources/views/profile.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/oldiariofp/resources/views/student/update.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/routes/web.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/resources/views/ejemplo.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/app/Http/Kernel.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/app/Rules/Mayusculas.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/app/Http/Controllers/HomeController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/app/Http/Middleware/controlEdad.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/resources/ejemplo.blade.php",
+		"/Users/ajsb/Desktop/Unity/Create with Code/Prototype 1/Assets/Scripts/PlayerController.cs",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/routes/web.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/app/Http/Controllers/TableroController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/views/layouts/app.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/app/Models/Usuario.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/views/usuarios/ver.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/views/usuarios/index.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/app/Http/Controllers/UsuarioController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/config/auth.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/app/Models/User.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/public/css/tableros.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/views/tableros/index.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/views/404.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/views/tableros/editar.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/app/Http/Controllers/NotaController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/database/seeds/TableroTableSeeder.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/database/seeds/NotaTableSeeder.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/views/tableros/add.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/views/prueba.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/views/notas/editar.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/views/notas/ver.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/composer.lock",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/README.md",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/.gitignore",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/app/Models/Tablero.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/lang/es/messages.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/app/Models/Nota.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/lang/en/messages.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/views/plantilla.blade.php",
+		"/Users/ajsb/Downloads/misseries.sql",
+		"/Users/ajsb/Downloads/GALLERY2.sql",
+		"/Volumes/Adobe Premiere Pro CC 2019 v13.1.5/Extra/tnt.sfv",
+		"/Volumes/Adobe Premiere Pro CC 2019 v13.1.5/Extra/tnt.nfo",
+		"/Applications/XAMPP/xamppfiles/htdocs/examen_mio/fontawesome/svgs/brands/skype.svg",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/config/app.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/webpack.mix.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/public/css/app.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/sass/app.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/.env",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/public/fa/css/all.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/sass/_variables.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/public/js/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/lang/es/validation.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/README.md",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/database/seeds/DatabaseSeeder.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/database/migrations/2020_03_19_104917_create_nota_table.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/database/migrations/2020_03_19_104909_create_tablero_table.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/database/migrations/2014_10_12_000000_create_usuario_table.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/app/Providers/AppServiceProvider.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/views/welcome.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/views/index.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/resources/views/ver.blade.php",
+		"/Users/ajsb/Desktop/EVALUACIÓN_2DAM.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/tableros/config/database.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperacion/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperacion/modelos/Tarea.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperacion/PlayGaming/app/Http/Controllers/HomeController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperacion/modelos/Grupo.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperacion/controllers/GrupoController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperacion/vistas/plantilla.base.php.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperacion/libs/Database.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperacion/Database.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperacion/controladores/GrupoController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperacion/vistas/editGrupo.php.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperacion/recuperacion.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperacion/controllers/UsuarioController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperacion/modelos/post.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperacion/controllers/PostController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperacion/index4.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperacion/index3.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/examen/vistas/plantilla.base.php.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperacion/Controladores/postController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperación/controllers/UsuarioController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperación/models/Post.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperación/Database.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperación/modelo/Usuario.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperación/modelos/Post.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperación/controladores/PostController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperación/controlador/UsuarioController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperación/modelo/Post.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperación/Models/Comentario.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperación/models/Usuario.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/recuperación/controllers/PostController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/controladores/PostController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/controllers/postController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/libs/Database.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/go_old.sh",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/go.sh",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/vistas/principal.php.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/controladores/UsuarioController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/Database.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/teatro/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/teatro/controladores/EspectaculoController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/teatro/modelos/Teatro.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/teatro/vistas/plantilla.base.php.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/teatro/vistas/espectaculo/index.php.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/teatro/modelos/Espectaculo.php",
+		"/Users/ajsb/Desktop/carpeta sin título/Database.php",
+		"/Users/ajsb/Desktop/carpeta sin título/BaseController.php",
+		"/Users/ajsb/Desktop/carpeta sin título/plantilla.base.php.twig",
+		"/Users/ajsb/Desktop/carpeta sin título/recuperacion.sql",
+		"/Users/ajsb/Downloads/examen.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/teatro/vistas/espectaculo/info.php.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/teatro/controladores/baseController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/teatro/vistas/teatro/index.php.twig",
+		"/Applications/XAMPP/xamppfiles/htdocs/teatro/controladores/TeatroController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/teatro/vistas/espectaculo/index.php.twig.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/teatro/core/Routing.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/teatro/core/Database.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/examen/Database.php",
+		"/Users/ajsb/Downloads/proyectos 2DAM/Marzo/InfoLeagueAndroid-master/InfoleagueNuevo/app/src/main/java/com/example/infoleaguenuevo/BienvenidoActivity.java",
+		"/Users/ajsb/Downloads/proyectos 2DAM/Marzo/InfoLeagueAndroid-master/InfoleagueNuevo/app/src/main/java/com/example/infoleaguenuevo/CreaTuEquipoActivity.java",
+		"/Users/ajsb/Downloads/proyectos 2DAM/Marzo/InfoLeagueAndroid-master/InfoleagueNuevo/app/src/main/java/com/example/infoleaguenuevo/Equipos.java",
+		"/Users/ajsb/Downloads/proyectos 2DAM/Marzo/InfoLeagueAndroid-master/InfoleagueNuevo/app/src/main/java/com/example/infoleaguenuevo/MainActivity.java"
+	],
+	"find":
+	{
+		"height": 51.0
+	},
+	"find_in_files":
+	{
+		"height": 147.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Applications/XAMPP/xamppfiles/htdocs/tableros"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 368.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
